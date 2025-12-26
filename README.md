@@ -5,9 +5,9 @@ The project follows a Figma design and uses BEM methodology with SCSS for clean,
 
 The page demonstrates advanced layout techniques with CSS Grid and Flexbox, responsive design, and smooth animations to provide a polished, interactive, and professional user experience.
 
-Live demo: Crazybaby Landing Page
+Live demo: [Crazybaby Landing Page](https://viktoriamyhailiak.github.io/crazybaby/)
 
-Design reference (Figma): Crazybaby Figma
+Design reference (Figma): [Crazybaby Figma](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=19655%3A33)
 
 # Technologies Used
 
