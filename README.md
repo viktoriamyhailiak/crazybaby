@@ -36,7 +36,7 @@ Responsive Design – optimized for:
 Follow these steps to run the project locally:
 
 1. Clone the repository
-git clone https://github.com/<viktoriamyhailiak>/crazybaby-landing.git,
+git clone https://github.com/<viktoriamyhailiak>/crazybaby.git,
 cd crazybaby-landing
 
 2. Install dependencies
